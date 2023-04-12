@@ -1,0 +1,65 @@
+header{
+    margin-left: 50px;
+    background-image: url(img/paper_one.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.main_container{
+    display: flex;
+    align-items: center;
+}
+
+
+.logo_container{
+    display: flex;
+    align-items: center;
+}
+
+
+.logo_container .image{
+    width: 100px;
+    height: 100px;
+    border: none;
+    background-color: coral;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+.minor_container{
+    margin-left: 450px;
+}
+
+.minor_container a{
+    color: black;
+    text-decoration: none;
+    margin-right: 20px;
+    margin-left: 10px;
+
+}
+
+.minor_container button{
+    width: 150px;
+    height: 50px;
+    margin-left: 100px;
+    border-radius: 25px;
+    border: none;
+    background-color: coral;
+    color: #fff;
+
+}
+
+.text_container{
+    margin-top:100px;
+}
+
+.text_container button{
+    width: 150px;
+    height: 50px;
+    border-radius: 25px;
+    border: none;
+    background-color: coral;
+    color: #fff;
+}
